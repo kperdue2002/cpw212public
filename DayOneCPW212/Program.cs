@@ -10,7 +10,7 @@ namespace DayOneCPW212
     {
         static void Main()
         {
-            Console.WriteLine("welcome to my humble console abode.");
+            Console.WriteLine("Hellow World.");
 
             Console.ReadKey();
         }
