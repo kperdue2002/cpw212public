@@ -1,3 +1,9 @@
 # DayOneCPW212
-Day One for cpw212
-its your classic hello world ***whoo***
+## hello world
+
+this is (not) my first source sontrol project using
+Visual Studio
+
+## requirements
+- visual studio 2019
+- windows desktop workload
