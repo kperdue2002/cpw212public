@@ -10,6 +10,7 @@ namespace DayOneCPW212
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("welcome to my humble console abode.");
         }
     }
 }
